@@ -8,3 +8,7 @@ Rocketpool is staking platform within the Ethereum ecosystem. Its token is RPL. 
 
 # Purpose of the RPL Staking Pool
 
+Node Operator might not want to have exposure to RPL. RPL is volatile, subject to speculation, has smart contract risks, and concerns tax-wise. Trust in the value of the token is an important factor here. A RPL Staking Pool abstracts risk and trust away from the Node Operator by matching their nodes with RPL from the RPL Staking Pool.
+
+# How does it work?
+
