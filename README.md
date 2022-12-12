@@ -12,3 +12,16 @@ Node Operator might not want to have exposure to RPL. RPL is volatile, subject t
 
 # How does it work?
 
+User wanting to speculate on RPL can deposit their RPL into the staking pool. Node Operator - that do not want exposure to RPL - pick the deposited RPL up and start up a node.
+
+# How does it look like?
+
+The RPL Staking Pool will have a simple user interface. It might look like this:
+
+Do you want to stake RPL?
+
+x RPL <digit field>
+
+expected yield: y <display>
+
+Stake <stake button>
