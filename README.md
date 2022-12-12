@@ -4,7 +4,9 @@ A RPL Staking Pool is pool for users to stake RPL and get yield in return.
 
 # Introduction
 
-Rocketpool is staking platform within the Ethereum ecosystem. Its token is RPL. Rocketpool matches Node Operator with user that do want to stake but not run a node on their own. Node Operator have to deposit 16 eth + an insurance in form of RPL, and get 16 eth from a pool to be able to start up a node. reth is given to user depositing in Rocketpool. reth represents their stake + staking rewards. Node Operator take a commission for doing the duty of running a machine to stake.
+Rocketpool is staking platform within the Ethereum ecosystem. Its token is RPL. Rocketpool matches Node Operators with Liquid Staker in a permissionsless, trustless way. Liquid stakers provide arbitrary amount of eth to Rocketpool, Node Operatos pick it up and stake it on behalf. Node Operator will take a commission for doing the duty of running a machine to secure the ethereum ecosystem via staking.
+
+Node Operator have to deposit 16 eth + an insurance in form of RPL. 
 
 # Purpose of the RPL Staking Pool
 
